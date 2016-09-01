@@ -1,0 +1,7 @@
+Instructions for Post-Fix Calculator: 
+ For this assignment, you are going to implement a postfix calculator using a Stack. The 
+application must be a GUI application, allowing the user to enter operands (the numbers) and 
+operators as a string into the display window. When the user clicks the “Calculate” button, the 
+application will attempt to perform the calculation. If it cannot, an appropriate error should be 
+displayed. Examples of exceptions would be a division by zero attempt, or an incorrectly formed 
+postfix string for an equation. 
